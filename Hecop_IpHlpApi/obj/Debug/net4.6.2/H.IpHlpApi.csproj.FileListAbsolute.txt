@@ -1,0 +1,6 @@
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.IpHlpApi\obj\Debug\net4.6.2\H.IpHlpApi.csproj.AssemblyReference.cache
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.IpHlpApi\obj\Debug\net4.6.2\H.IpHlpApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.IpHlpApi\obj\Debug\net4.6.2\H.IpHlpApi.AssemblyInfoInputs.cache
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.IpHlpApi\obj\Debug\net4.6.2\H.IpHlpApi.AssemblyInfo.cs
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.IpHlpApi\obj\Debug\net4.6.2\H.IpHlpApi.csproj.CoreCompileInputs.cache
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.IpHlpApi\obj\Debug\net4.6.2\H.IpHlpApi.sourcelink.json

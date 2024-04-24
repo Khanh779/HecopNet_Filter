@@ -1,0 +1,11 @@
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Wfp\obj\Debug\net6.0\H.Wfp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Wfp\obj\Debug\net6.0\H.Wfp.AssemblyInfoInputs.cache
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Wfp\obj\Debug\net6.0\H.Wfp.AssemblyInfo.cs
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Wfp\obj\Debug\net6.0\H.Wfp.csproj.CoreCompileInputs.cache
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Wfp\obj\Debug\net6.0\H.Wfp.sourcelink.json
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Wfp\bin\Debug\net6.0\H.Wfp.deps.json
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Wfp\bin\Debug\net6.0\H.Wfp.dll
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Wfp\obj\Debug\net6.0\H.Wfp.csproj.AssemblyReference.cache
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Wfp\obj\Debug\net6.0\H.Wfp.dll
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Wfp\obj\Debug\net6.0\refint\H.Wfp.dll
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Wfp\obj\Debug\net6.0\ref\H.Wfp.dll

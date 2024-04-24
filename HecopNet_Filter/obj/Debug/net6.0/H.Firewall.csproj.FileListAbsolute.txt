@@ -1,0 +1,13 @@
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Firewall\obj\Debug\net6.0\H.Firewall.csproj.AssemblyReference.cache
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Firewall\obj\Debug\net6.0\H.Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Firewall\obj\Debug\net6.0\H.Firewall.AssemblyInfoInputs.cache
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Firewall\obj\Debug\net6.0\H.Firewall.AssemblyInfo.cs
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Firewall\obj\Debug\net6.0\H.Firewall.csproj.CoreCompileInputs.cache
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Firewall\obj\Debug\net6.0\H.Firewall.sourcelink.json
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Firewall\bin\Debug\net6.0\H.Firewall.deps.json
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Firewall\bin\Debug\net6.0\H.Firewall.dll
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Firewall\bin\Debug\net6.0\H.Wfp.dll
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Firewall\obj\Debug\net6.0\H.Firewall.csproj.Up2Date
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Firewall\obj\Debug\net6.0\H.Firewall.dll
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Firewall\obj\Debug\net6.0\refint\H.Firewall.dll
+C:\Users\quock\Downloads\FW\H.Vpn-main\src\libs\H.Firewall\obj\Debug\net6.0\ref\H.Firewall.dll

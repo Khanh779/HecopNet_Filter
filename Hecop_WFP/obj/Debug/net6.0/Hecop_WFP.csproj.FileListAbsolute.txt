@@ -1,0 +1,13 @@
+C:\Users\quock\Downloads\FW\HecopNet_Filter\Hecop_WFP\bin\Debug\net6.0\Hecop_WFP.deps.json
+C:\Users\quock\Downloads\FW\HecopNet_Filter\Hecop_WFP\bin\Debug\net6.0\Hecop_WFP.dll
+C:\Users\quock\Downloads\FW\HecopNet_Filter\Hecop_WFP\bin\Debug\net6.0\Hecop_WFP.pdb
+C:\Users\quock\Downloads\FW\HecopNet_Filter\Hecop_WFP\obj\Debug\net6.0\Hecop_WFP.csproj.AssemblyReference.cache
+C:\Users\quock\Downloads\FW\HecopNet_Filter\Hecop_WFP\obj\Debug\net6.0\Hecop_WFP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quock\Downloads\FW\HecopNet_Filter\Hecop_WFP\obj\Debug\net6.0\Hecop_WFP.AssemblyInfoInputs.cache
+C:\Users\quock\Downloads\FW\HecopNet_Filter\Hecop_WFP\obj\Debug\net6.0\Hecop_WFP.AssemblyInfo.cs
+C:\Users\quock\Downloads\FW\HecopNet_Filter\Hecop_WFP\obj\Debug\net6.0\Hecop_WFP.csproj.CoreCompileInputs.cache
+C:\Users\quock\Downloads\FW\HecopNet_Filter\Hecop_WFP\obj\Debug\net6.0\Hecop_WFP.sourcelink.json
+C:\Users\quock\Downloads\FW\HecopNet_Filter\Hecop_WFP\obj\Debug\net6.0\Hecop_WFP.dll
+C:\Users\quock\Downloads\FW\HecopNet_Filter\Hecop_WFP\obj\Debug\net6.0\refint\Hecop_WFP.dll
+C:\Users\quock\Downloads\FW\HecopNet_Filter\Hecop_WFP\obj\Debug\net6.0\Hecop_WFP.pdb
+C:\Users\quock\Downloads\FW\HecopNet_Filter\Hecop_WFP\obj\Debug\net6.0\ref\Hecop_WFP.dll

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IPNetwork2" Version="3.0.667" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HecopNet_Filter\HecopNet_Filter.csproj" />
+    <ProjectReference Include="..\Hecop_IpHlpApi\Hecop_IpHlpApi.csproj" />
+    <ProjectReference Include="..\Hecop_WFP\Hecop_WFP.csproj" />
+  </ItemGroup>
+
+</Project>

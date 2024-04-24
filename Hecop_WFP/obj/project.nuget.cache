@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "ykkx2MajPjh3n61kyEcUcbUtx/P3plQ+O4INwEehBKSr3zNNBr7Z8+D+F3F2e7IhGi2MILGisHGDeUeiFGyxQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\quock\\Downloads\\FW\\HecopNet_Filter\\Hecop_WFP\\Hecop_WFP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quock\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\6.0.0\\microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\microsoft.extensions.configuration.json\\6.0.0\\microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\6.0.1\\microsoft.extensions.configuration.usersecrets.6.0.1.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\microsoft.windows.cswin32\\0.3.49-beta\\microsoft.windows.cswin32.0.3.49-beta.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\microsoft.windows.sdk.win32docs\\0.1.42-alpha\\microsoft.windows.sdk.win32docs.0.1.42-alpha.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\microsoft.windows.sdk.win32metadata\\55.0.45-preview\\microsoft.windows.sdk.win32metadata.55.0.45-preview.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\microsoft.windows.wdk.win32metadata\\0.9.9-experimental\\microsoft.windows.wdk.win32metadata.0.9.9-experimental.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\polysharp\\1.14.1\\polysharp.1.14.1.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\quock\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
